@@ -1,0 +1,86 @@
+﻿  ProcessExplorer.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\ProcessExplorer.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\ProcessExplorer.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+  ProcessSpawner.cpp
+  win32process.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\process\win32process.cpp(154,7): warning C4101: 'error': unreferenced local variable
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\process\win32process.cpp(189,2): warning C4091: 'static ': ignored on left of 'st_getMainWindow' when no variable is declared
+  win32thread.cpp
+  dir.cpp
+  file.cpp
+  matrix.cpp
+  osdfile.cpp
+  strfuncs.cpp
+  time.cpp
+  pmfile.cpp
+  string.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\lib\string.cpp(242,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\lib\string.cpp(244,19): warning C4018: '>': signed/unsigned mismatch
+  timer.cpp
+  control.cpp
+  button.cpp
+  checkbox.cpp
+  combobox.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\controls\combobox.cpp(79,26): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\controls\combobox.cpp(88,22): warning C4018: '>=': signed/unsigned mismatch
+  editbox.cpp
+  gridview.cpp
+  groupbox.cpp
+  Generating Code...
+  Compiling...
+  label.cpp
+  listview.cpp
+  radiobutton.cpp
+  scrollbar.cpp
+  scrollview.cpp
+  separator.cpp
+  statusbar.cpp
+  textlink.cpp
+  filedialog.cpp
+  font.cpp
+  horizontallayout.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\layout\horizontallayout.cpp(37,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\layout\horizontallayout.cpp(38,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  layout.cpp
+  linearlayout.cpp
+  verticallayout.cpp
+  menu.cpp
+  osdbase.cpp
+  osdbutton.cpp
+  osdcheckbox.cpp
+  osdcombobox.cpp
+  osdcontrol.cpp
+  Generating Code...
+  Compiling...
+  osdeditbox.cpp
+  osdfiledialog.cpp
+  osdfont.cpp
+  osdgridview.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\osd\windows\osdgridview.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+  osdgroupbox.cpp
+  osdlabel.cpp
+  osdlistview.cpp
+  osdmenu.cpp
+  osdpaintingdevice.cpp
+  osdradiobutton.cpp
+  osdscrollbar.cpp
+C:\Users\colta\Downloads\ProcessExplorer-master\ProcessExplorer\uilib\ui\osd\windows\osdscrollbar.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+  osdscrollview.cpp
+  osdstatusbar.cpp
+  osduitools.cpp
+  osdwindow.cpp
+  uiobject.cpp
+  windowscontrols.cpp
+  bitmap.cpp
+  painter.cpp
+  paintingdevice.cpp
+  Generating Code...
+  Compiling...
+  palette.cpp
+  transform.cpp
+  uibase.cpp
+  uiobj.cpp
+  uitools.cpp
+  window.cpp
+  Generating Code...
+  ProcessExplorer.vcxproj -> C:\Users\colta\Downloads\ProcessExplorer-master\Debug\ProcessExplorer.exe
